@@ -550,11 +550,7 @@ namespace BotLinkedIn
                     }
             //}
             // Keep all the accounts in one place
-            List<Account> testAccounts = new List<Account>()
-{
-    new Account("ary@argus-soft.net", "rufus279", 1),    // Create a new account
-    new Account("cfilimonchuk1@gmail.com", "lin147258", 2)    // Create another account
-};
+            
             List<Account> botAccounts = new List<Account>()
 {
     new Account("i.rebenok@argus-soft.net", "Iv@N5434LokC", 1),
